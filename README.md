@@ -62,6 +62,8 @@
 - **[Create Animals Table]**
 - **[Insert animals data]**
 - **[Query Animals data]**
+- **[Add transactions for updates and deletes]**
+- **[Queries with aggregates]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
