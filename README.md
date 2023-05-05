@@ -64,6 +64,11 @@
 - **[Query Animals data]**
 - **[Add transactions for updates and deletes]**
 - **[Queries with aggregates]**
+- **[Add species table]**
+- **[Add owners table]**
+- **[Modify animals table with species_id which is a foreign key referencing species]**
+- **[Modify animals table with owner_id which is a foreign key referencing owners]**
+- **[Join queries in animals table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,63 +82,34 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
+```pre
+1. Install the vs code
+2. Internet
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+
 
 ```sh
   cd my-folder
   git clone https://github.com/BB-Simon/vet-clinic.git
 ```
---->
 
-### Install
 
-Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
 ```sh
-  rails server
+1. Open the files in the vs code
+2. See the queries of sql command
 ```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,7 +166,5 @@ I would like to thank Microverse team for giving me the idea of Vet clinic datab
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
