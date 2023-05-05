@@ -64,6 +64,11 @@
 - **[Query Animals data]**
 - **[Add transactions for updates and deletes]**
 - **[Queries with aggregates]**
+- **[Add species table]**
+- **[Add owners table]**
+- **[Modify animals table with species_id which is a foreign key referencing species]**
+- **[Modify animals table with owner_id which is a foreign key referencing owners]**
+- **[Join queries in animals table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
