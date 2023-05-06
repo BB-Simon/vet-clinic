@@ -69,6 +69,11 @@
 - **[Modify animals table with species_id which is a foreign key referencing species]**
 - **[Modify animals table with owner_id which is a foreign key referencing owners]**
 - **[Join queries in animals table]**
+- **[Add vets table]**
+- **[Add specializations table]**
+- **[Add visits table]**
+- **[Implement many-to-many relationships]**
+- **[Add more complex queries]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
